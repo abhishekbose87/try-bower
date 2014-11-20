@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+source 'https://rails-assets.org'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
@@ -39,3 +40,7 @@ gem 'therubyracer'
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+
+
+#assets
+gem 'rails-assets-bootstrap-sass'
